@@ -1,6 +1,7 @@
 Digital Flying V: An Accessible MIDI Guitar
 One of the most meaningful creative projects I am currently working on is building a custom MIDI guitar that mimics the playability and sound of a traditional electric guitar. This project represents a convergence of personal experience, accessibility design, and creative engineering.
-💡 Inspiration & Goals
+
+Inspiration & Goals
 The idea was inspired by my guitar teacher, who had to undergo surgery after a hand injury that temporarily left him unable to play. That experience made me think more deeply about accessibility in music technology and sparked a desire to create an instrument that could offer high-level expression with reduced physical strain.
 My primary goals for this project are:
 • To build a functional prototype that bridges the gap between digital music and physical ergonomics.
